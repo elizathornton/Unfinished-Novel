@@ -3,7 +3,10 @@ Fine tuning Llama 2 to finish an unfinished novel in the style of the author.
 
 <img src = "Gaskell-drawing.png"  width="50" height = "60" title="Elizabeth Gaskell, 1801-1865">
 
-![Elizabeth Gaskell, 1810-1865](Gaskell-drawing.png)
+Test Test Test
+
+[![Elizabeth Gaskell, 1810-1865](Gaskell-drawing.png)]::
+
 
 Finishing an unfinished novel:
 Learning objectives
