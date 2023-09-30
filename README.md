@@ -1,7 +1,7 @@
 # Unfinished-Novel
 Fine tuning Llama 2 to finish an unfinished novel in the style of the author.
 
-![image info](Unfinished-Novel/Elizabeth-Gaskell-chalk-drawing.webp)
+![Elizabeth Gaskell, 1810-1865](Unfinished-Novel/Gaskell-drawing.png)
 
 Finishing an unfinished novel:
 Learning objectives
