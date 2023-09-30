@@ -1,12 +1,21 @@
 # Unfinished-Novel
-Fine tuning Llama 2 to finish an unfinished novel in the style of the author.
+Use NLP to finish an unfinished novel in the style of the author.
 
-<img src = "Gaskell-drawing.png"  width="50" height = "60" title="Elizabeth Gaskell, 1801-1865">
+Learning goals:
 
-Test Test Test
+We picked this project as a way to learn about:
+ - Transformers
+ - Finetuning
+ - LORAs
+ - Langchain
+ - And methods of interacting with LLMs
 
-[![Elizabeth Gaskell, 1810-1865](Gaskell-drawing.png)]::
+Over the course of the project we took many wrong turns, 
 
+
+<img src = "Gaskell-drawing.png"  width="200" height = "400" title="Elizabeth Gaskell, 1810-1865">
+
+Elizabeth Gaskell, 1810-1865
 
 Finishing an unfinished novel:
 Learning objectives
