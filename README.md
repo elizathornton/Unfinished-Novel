@@ -3,17 +3,20 @@ Use NLP to finish an unfinished novel in the style of the author.
 
 Learning goals:
 
-We picked this project as a way to learn about:
- - Transformers
- - Finetuning
- - LORAs
- - Langchain
- - And methods of interacting with LLMs
-
-Over the course of the project we took many wrong turns, 
+We picked this project as a way to learn about LLM's, fine-tuning, and text generation. 
 
 
-<img src = "Gaskell-drawing.png"  width="200" height = "400" title="Elizabeth Gaskell, 1810-1865">
+Over the course of the project we took many wrong turns and detours.   Here's what we learned:
+
+
+We discovered how to use OpenAI's API effectively.
+We learned about working with Hugging Face's Language Models (LLMs) on our local machines.
+Fine-tuning models can be a tricky process, and we got hands-on experience with it.
+We also figured out how to run LLMs on both local setups and Google Colab.
+
+
+
+<img src = "Gaskell-drawing.png"  width="300" height = "400" title="Elizabeth Gaskell, 1810-1865">
 
 Elizabeth Gaskell, 1810-1865
 
